@@ -1,0 +1,4 @@
+account_id,account_name,currency,balance,balance_checked_at,bill_id,card_name,due_date,confirmed_amount,is_paid
+ACC-001,KB 사업계좌,KRW,300000,2026-11-04T10:00:00+09:00,BILL-001,KB카드,2026-11-12,180000,false
+ACC-001,KB 사업계좌,KRW,300000,2026-11-04T10:00:00+09:00,BILL-002,신한카드,2026-11-14,100000,false
+ACC-001,KB 사업계좌,KRW,300000,2026-11-04T10:00:00+09:00,BILL-003,현대카드,2026-11-14,60000,false
